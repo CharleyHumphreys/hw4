@@ -1,0 +1,2 @@
+Hello! This file is for question 6.
+Git is pretty cool :)
